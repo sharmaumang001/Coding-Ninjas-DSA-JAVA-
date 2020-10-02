@@ -1,8 +1,9 @@
 # Coding-Ninjas-DSA-JAVA-
 In this repository i am going to add all the problems and thier solutions in the ***DSA course of Coding Ninjas***.</br>
-These question are really helpful in learning DSA, I suggest you to gio through them and if helpful get the course.
+These question are really helpful in learning DSA, I suggest you to go through them and if helpful get the course.
 ### Current status
-Currently I am just going to add some Algos on it & will continue with DSA after 8th October.
+Currently, we are just going to uploading sorting algorithms</br>
+After 8*th* of october , we will start uploading the course material.We will dividing it in the same way it is divided in the course.</br>
 ### Get the Course 
 This course is being very helpful to me and i hope you all also find it the same.</br>So follow the steps and get the course.</br>
 ###### DSA Course
